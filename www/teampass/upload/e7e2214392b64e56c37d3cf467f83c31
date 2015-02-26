@@ -1,0 +1,13 @@
+IP Firewalls
+
+internal, external, user, office
+10.3.90.253, 210.61.218.162, itsecurity, taiwan
+10.2.90.253, 222.127.9.154, admin, philippines
+10.10.90.253, 200.62.13.66, admin, cubo negro
+10.4.90.253, 186.73.192.66, admin, idc
+10.1.90.253, 64.221.220.67, admin, boca raton
+10.8.4.3, 65.48.174.99, admin, barbados
+10.5.90.254, 5.144.156.250, admin, london
+10.4.4.3, 186.73.169.82, admin, torre de las americas
+10.7.90.254, 212.78.165.26 , admin, amsterdam, puerto 43434
+10.6.90.254,,admin, mexico
