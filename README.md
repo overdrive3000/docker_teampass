@@ -1,4 +1,4 @@
-== Instructions to run the container
+## Instructions to run the container
 
 ``
 docker run --name mysql -e MYSQL_ROOT_PASSWORD=YOURSECUREPASSWORD -d mysql
